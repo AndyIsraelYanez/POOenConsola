@@ -1,7 +1,6 @@
 # Programación Orientada a Objetos 
 
-<h1>  Este programa utiliza clases  relacionadas  con las  carreras  Universitarias que existen y sus características, para ello se usa una consola  como   
- respuestas y presentaciones   de los objetos que interactuan entre si</h1>
+<h1>  El siguiente programa muestra muestra  los roles que tiene un administrador  y un vendedor en una tienda o almacen , teniendo encuenta el tipo de producto  que se vende ,y mencionando los nombres de las tiendas. </h1>
  
   <ul> 
 <li> El programa   consta de cuatro clases</li> 
